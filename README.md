@@ -37,6 +37,8 @@ The following datasets were used and are placed under the `data/` folder:
 | `items.csv` (optional)| Metadata about product categories          |
 
 These datasets were preprocessed and loaded into Power BI for visualization.
+⚠️ Note: `train.csv` is too large for GitHub. You can [download it here](https://drive.google.com/file/d/18ud4Yl7RiI7329CgJjOzdVgC0tuOErXF/view?usp=sharing) via Google Drive.
+
 
 ---
 
@@ -44,7 +46,7 @@ These datasets were preprocessed and loaded into Power BI for visualization.
 
 Sales-Forecasting-PowerBI/
 ├── powerbi/
-│   └── power_proj2.pbix              # Power BI dashboard file
+│   └── dashboard.pbix              # Power BI dashboard file
 ├── data/
 │   ├── train.csv                     # Raw sales training data
 │   ├── test.csv                      # Test data for forecasting
@@ -63,6 +65,7 @@ Sales-Forecasting-PowerBI/
 
 🖼️ Dashboard Preview
 
+Below is a screenshot of the final interactive Power BI dashboard:
 ![Sales Dashboard Preview](images/1_dashboard_overview.jpg)
 
 ---
@@ -96,7 +99,10 @@ Sales-Forecasting-PowerBI/
 📌 Author
 
 Harshitha Dadi
-[Email](mailto:harshithadadi5@gmail.com) | Anakapalli, India  
+[Email](mailto:harshithadadi5@gmail.com) | Anakapalli, India 
+
+📇 [LinkedIn](https://www.linkedin.com/in/harshitha-dadi-628477313/)
+
 Department of IT | Vignan Institute of Engineering for Women  
 
 ---
